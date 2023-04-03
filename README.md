@@ -1,5 +1,5 @@
 # 💫 About Me:
-Chief Architect | 10x GCP certified | ML&AI | Data Scientist<br><br>15 years of industry experience<br><br>Architecting scalable systems<br><br>
+Chief Architect | 10x GCP certified | ML&AI | Data Scientist<br><br>15 years of industry experience<br><br>Architecting scalable systems<br><br><i>"The only way to accurately predict the future is to create it"</i><br><br>
 
 
 ## 🌐 Socials:
