@@ -1,8 +1,24 @@
 # 💫 About Me:
 Chief Architect | 10x GCP certified | ML&AI | Data Scientist<br><br>15 years of industry experience<br><br>Architecting scalable systems<br><br><i>"The only way to accurately predict the future is to create it"</i><br><br>
 
+# 💫 Certifications:
+<br>
 
-## 🌐 Socials:
+![alt text](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/65326780)
+![alt text](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/64898450)
+![alt text](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/62659868)
+![alt text](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/62263374)
+![alt text](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/62220575)
+![alt text](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/61922921)
+![alt text](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/61755657)
+![alt text](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/61796987)
+![alt text](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/61461601)
+![alt text](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/60173563)
+
+<br>
+
+# 🌐 Socials:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/amithka) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@amith12212) 
 
 # 💻 Tech Stack:
